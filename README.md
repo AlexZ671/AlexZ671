@@ -1,9 +1,3 @@
-<h1 align="center">Привет, я AlexZ 👋</h1>
-
-<p align="center">
-  <a href="https://github.com/AlexZ671/helix-ide">Helix IDE rice</a> · Linux · Python · терминальный тайлинг и красивые конфиги
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -12,16 +6,6 @@
   <img src="https://img.shields.io/badge/Kitty-000000?style=for-the-badge&logo=kitty&logoColor=white" />
   <img src="https://img.shields.io/badge/fish-3776AB?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
-
----
-
-### 🔭 Чем занимаюсь
-
-- 🧩 Пилю **[helix-ide](https://github.com/AlexZ671/helix-ide)** — Helix + zellij + kitty в одном лейауте с живой анимированной сменой темы (`:theme` плавно перекрашивает весь IDE) и опциональным Discord-присутствием.
-- 🐧 Терминал, риды, конфиги — всё в Linux.
-- 🐍 Пишу на Python.
-
----
 
 <div align="center">
 
@@ -42,15 +26,11 @@
 
 </div>
 
----
-
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexZ671&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff" width="95%" />
 
 </div>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlexZ671&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS" />
