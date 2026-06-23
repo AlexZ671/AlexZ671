@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Helix-282c34?style=for-the-badge&logo=helix&logoColor=white" />
   <img src="https://img.shields.io/badge/Zellij-2c2c2c?style=for-the-badge&logo=zellij&logoColor=white" />
   <img src="https://img.shields.io/badge/Kitty-000000?style=for-the-badge&logo=kitty&logoColor=white" />
